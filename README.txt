@@ -3,11 +3,12 @@ Nom projet: Projet de PYTHON , Métadonnées de fichiers MP3/FLAC et playlist XS
 Lien GITHUB : https://github.com/achrefG/spotifake/tree/master
 
 Réaliser par : 
-ABERKANE Mehdi GROUPE D 
-GHEZIL Achref GROUPE B 
-JAAFAR Amir GROUPE B
 LINCENCE 3 INFORMATIQUE 
-
+<ul>
+<li>BOURAS NADIA GROUPE B</li>
+<li>GHEZIL Achref GROUPE B</li>
+<li>JAAFAR Amir GROUPE B</li>
+</ul>
 Résume:
    Notre logiciel en mode console et graphique permet l'extraction des métadonnée d'un fichier mp3/flac, de lancer un morceau ou encore de parcourir une arborescence de fichier afin d'extraire les fichiers mp3/flac avec vérification du type mime, et aussi voir le contenue d'une playlist xspf existante.
 
